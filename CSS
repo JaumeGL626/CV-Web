@@ -1,0 +1,127 @@
+
+header{
+    display: inline;
+    color: rgba(33, 62, 98);
+    justify-content: space-around;
+    background-color:rgb(201, 214, 230);
+    display:flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+}
+
+.presentacio{
+   
+
+    
+}
+.presentacio img{
+    width: 180px;  
+    height: 180px;
+   
+ 
+    border-radius:50%;
+  
+}
+
+.Nom {
+    display: flex;
+    line-height: 1.2px;
+ 
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;   
+}
+
+
+.container{
+    display: flex;
+    justify-content: flex-start;
+
+    
+}
+.presentacio{
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.contact img{
+    width: 25px;  
+    height: 25px;
+   
+}
+.contact{
+    display: flex;  
+    flex-direction: column;  
+    line-height: 1.2px;
+
+
+}
+.contact div {
+  display: flex;          
+  align-items: center;    
+  gap: 10px;           
+}
+
+.lateral{
+   
+    padding-left: 50px;
+    padding-right: 100px;
+    justify-content: flex-start;
+    background-color: rgb(237, 244, 255);
+    width: 600px;
+}
+
+.cos{
+    background-color: rgb(255, 255, 255);
+    margin-left: 60px;
+    margin-top: 30px;
+    margin-right: 60px;
+ 
+}
+
+#AboutMe {
+    
+ background-color: rgb(255, 255, 255);
+   
+}
+#Skills{
+  
+    padding-top: 30px;
+}
+
+#Skills li{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#Formation li{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#Lenguage li{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    
+}
+#Availability li{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#Formation strong{
+    padding-bottom: 50p;
+}
+
+
+#LaboralExperience article{
+    margin left: 40px;
+}
+
+#Driving li {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
